@@ -1,0 +1,16 @@
+11: ValueError - https://www.amzpublishingconsultant.com/images/mis.jpg
+12: ValueError - https://www.amzpublishingconsultant.com/images/horror.jpg
+13: ValueError - https://www.amzpublishingconsultant.com/images/Romance.jpg
+14: ValueError - https://www.amzpublishingconsultant.com/images/child.jpg
+15: ValueError - https://www.amzpublishingconsultant.com/images/Fantasy.jpg
+16: ValueError - https://www.amzpublishingconsultant.com/images/Guide.jpg
+17: ValueError - https://www.amzpublishingconsultant.com/images/Drama.jpg
+18: ValueError - https://www.amzpublishingconsultant.com/images/Crime.jpg
+19: 404 ERROR file not found - https://www.amzpublishingconsultant.com/images/bio.webp
+20: ValueError - https://www.amzpublishingconsultant.com/images/health.jpg
+21: ValueError - https://www.amzpublishingconsultant.com/images/Travel.jpg
+22: ValueError - https://www.amzpublishingconsultant.com/images/Philosophy.jpg
+23: ValueError - https://www.amzpublishingconsultant.com/images/fic.jpg
+24: ValueError - https://www.amzpublishingconsultant.com/images/adventure.jpg
+25: ValueError - https://www.amzpublishingconsultant.com/images/art.jpg
+26: ValueError - https://www.amzpublishingconsultant.com/images/Business.jpg
